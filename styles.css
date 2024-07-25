@@ -488,7 +488,7 @@ footer {
 
               .helix {
                 --uib-size: 45px;
-                --uib-color: black;
+                --uib-color: rgb(128, 0, 137);
                 --uib-speed: 2.5s;
                 display: flex;
                 flex-direction: column;
@@ -647,3 +647,4 @@ footer {
                   opacity: 0.65;
                 }
               }
+              
