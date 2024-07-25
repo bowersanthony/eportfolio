@@ -488,7 +488,7 @@ footer {
 
               .helix {
                 --uib-size: 45px;
-                --uib-color: rgb(128, 0, 137);
+                --uib-color: #6038b1;
                 --uib-speed: 2.5s;
                 display: flex;
                 flex-direction: column;
@@ -496,6 +496,7 @@ footer {
                 justify-content: center;
                 height: var(--uib-size);
                 width: var(--uib-size);
+                
               }
             
               .slice {
